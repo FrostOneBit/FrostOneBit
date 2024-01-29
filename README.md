@@ -9,6 +9,7 @@
 ![](https://img.shields.io/badge/PostgreSQL-171717?style=for-the-badge&logo=PostgreSQL)
 ![](https://img.shields.io/badge/JavaScript-171717?style=for-the-badge&logo=javascript)
 ![](https://img.shields.io/badge/HTML%20&%20CSS-171717?style=for-the-badge&logo=HTML)
+![](https://img.shields.io/badge/Flask-171717?style=for-the-badge&logo=Flask)
 ## Tools
 
 ### Telegram-bot-api
