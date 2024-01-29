@@ -10,6 +10,7 @@
 ![](https://img.shields.io/badge/JavaScript-171717?style=for-the-badge&logo=javascript)
 ![](https://img.shields.io/badge/HTML%20&%20CSS-171717?style=for-the-badge&logo=HTML)
 ![](https://img.shields.io/badge/Flask-171717?style=for-the-badge&logo=Flask)
+![](https://img.shields.io/badge/Django-171717?style=for-the-badge&logo=Django)
 ## Tools
 
 ### Telegram-bot-api
