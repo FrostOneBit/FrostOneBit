@@ -1,5 +1,5 @@
+<!-- Гифка -->
 <div align="center">
-  <!-- Гифка -->
   <img 
     src="assets/Code%20Hacking%20GIF%20by%20Pizza%20Ninjas.gif" 
     alt="Описание гифки" 
@@ -7,9 +7,12 @@
     height="200"
     style="border-radius: 50%; object-fit: cover;"
   />
+</div>
 
-  <!-- Ссылки -->
-  <p style="margin-top: 40px">
+<!-- Ссылки -->
+<div align="center" style="margin-top: 40px;">
+  <h3>🔗 Мои ссылки</h3>
+  <p>
     <a href="https://t.me/FrostOneBit">
       <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
     </a>
@@ -20,9 +23,11 @@
       <img src="https://img.shields.io/badge/Vkontakte-0077FF?style=for-the-badge&logo=vk&logoColor=white" alt="Vkontakte"/>
     </a>
   </p>
+</div>
 
-  <!-- Инструменты -->
-  <h3 style="margin-top: 40px; margin-bottom: 40px;">💻 Мой инструментарий</h3>
+<!-- Инструменты -->
+<div align="center" style="margin-top: 40px;">
+  <h3>💻 Мой инструментарий</h3>
   <p>
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
     <img src="https://img.shields.io/badge/Google_API-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google API"/>
