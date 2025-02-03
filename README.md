@@ -1,4 +1,3 @@
-<!-- Гифка -->
 <div align="center">
   <img 
     src="assets/Code%20Hacking%20GIF%20by%20Pizza%20Ninjas.gif" 
